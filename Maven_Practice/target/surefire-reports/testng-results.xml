@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="17128" started-at="2022-06-17T12:20:28 IST" finished-at="2022-06-17T12:20:45 IST">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="17128" started-at="2022-06-17T12:20:28 IST" finished-at="2022-06-17T12:20:45 IST">
+      <class name="practiceSession.PRacticeXMLTest">
+        <test-method status="PASS" signature="TC()[pri:0, instance:practiceSession.PRacticeXMLTest@6536e911]" name="TC" duration-ms="7538" started-at="2022-06-17T12:20:38 IST" finished-at="2022-06-17T12:20:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC -->
+      </class> <!-- practiceSession.PRacticeXMLTest -->
+      <class name="practiceSession.JS_ScrollTest">
+        <test-method status="PASS" signature="TC()[pri:0, instance:practiceSession.JS_ScrollTest@63753b6d]" name="TC" duration-ms="6335" started-at="2022-06-17T12:20:30 IST" finished-at="2022-06-17T12:20:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC -->
+      </class> <!-- practiceSession.JS_ScrollTest -->
+      <class name="practiceSession.LaunchingBrowserTest">
+        <test-method status="PASS" signature="TC()[pri:0, instance:practiceSession.LaunchingBrowserTest@6b09bb57]" name="TC" duration-ms="1050" started-at="2022-06-17T12:20:37 IST" finished-at="2022-06-17T12:20:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC -->
+      </class> <!-- practiceSession.LaunchingBrowserTest -->
+      <class name="practiceSession.EmptyBrowserTest">
+        <test-method status="PASS" signature="Open()[pri:0, instance:practiceSession.EmptyBrowserTest@71423665]" name="Open" duration-ms="2176" started-at="2022-06-17T12:20:28 IST" finished-at="2022-06-17T12:20:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Open -->
+      </class> <!-- practiceSession.EmptyBrowserTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
